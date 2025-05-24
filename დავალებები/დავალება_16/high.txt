@@ -1,0 +1,4 @@
+dato,headphones,1,25
+giorgi,laptop,1,1200
+tamar,monitor,1,150
+ani,keyboard,1,45
