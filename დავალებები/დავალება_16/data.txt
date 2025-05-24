@@ -1,0 +1,10 @@
+lasha,apple,1,2.5
+nino,banana,3,1.0
+dato,headphones,1,25
+eka,pen,2,1.2
+giorgi,laptop,1,1200
+mari,eraser,5,0.5
+tamar,monitor,1,150
+levani,usb_cable,2,4.0
+ani,keyboard,1,45
+nika,notebook,1,3.0
