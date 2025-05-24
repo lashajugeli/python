@@ -1,0 +1,16 @@
+{
+    "max_quantity_users": [
+        "mari"
+    ],
+    "max_quantity": 5,
+    "max_value_users": [
+        "giorgi"
+    ],
+    "max_value": 1200.0,
+    "average_value": 144.14,
+    "average_quantity": 1.8,
+    "top_products": [
+        "eraser"
+    ],
+    "top_product_quantity": 5
+}
